@@ -1,0 +1,175 @@
+
+/*------------------------ G E N E R A L --------------------*/
+
+body
+{
+	padding-left: 5%;
+	padding-right: 5%;
+	background: #e6e6e6;
+}
+
+footer
+{
+	background: #595959;
+	color: white;
+	height: 80px;
+	text-align: center;
+	margin-top: 10px;
+	padding: 20px;
+}
+
+/*------------------------------ X-1 -------------------------*/
+
+.img-logo
+{
+	margin: 10px;
+	height: 50px;
+	width: 50px;
+}
+
+.img-social
+{
+	height: 30px;
+	width: 30px;
+}
+
+/*------------------------------ X-2 -------------------------*/
+
+.cb
+{
+	padding: 1px;
+}
+
+.button
+{
+	background: #005380;
+}
+
+/*------------------------------ X-3 -------------------------*/
+
+.x-3
+{
+	background: white;
+}
+
+.c-3-2
+{
+	background: #8c8c8c;
+}
+
+/*------------------------------ X-4 -------------------------*/
+
+.x-4
+{
+	background: white;
+	padding: 15px;
+}
+
+.c-4-1
+{
+	padding: 15px;
+	background: #cce6ff;
+}
+
+.c-4-2
+{
+	padding-left: 10px;
+}
+
+.img-portugal
+{
+	width: 100%;
+}
+
+/*------------------------------ X-5 -------------------------*/
+
+.c-5-1
+{
+	padding: 5px;
+}
+
+.img-person
+{
+	width: 70%;
+}
+
+.c-5-2
+{
+	padding-top: 10px;
+}
+
+/*------------------------------ X-6 -------------------------*/
+
+.x-6
+{
+	background: white;
+	padding: 15px;
+}
+
+.c-6-2
+{
+	padding: 10px;
+	background: #ccffe6;
+	border: 1px solid #d9d9d9;
+}
+
+.c-6-1
+{
+	padding-right: 10px;
+}
+
+.img-fkj
+{
+	width: 100%;
+}
+
+
+/*------------------------------ X-7 -------------------------*/
+
+.c-7-1
+{
+	padding: 5px;
+}
+
+.c-7-2
+{
+	padding-top: 10px;
+}
+
+/*------------------------------ X-8 -------------------------*/
+
+.x-8
+{
+	padding: 15px;
+}
+
+.text-buscar
+{
+	color: white;
+}
+
+/*------------------------------ X-9 -------------------------*/
+
+.x-9
+{
+	padding: 15px;
+}
+
+.lista
+{
+  border: 1px solid #e6e6e6;
+  background: #fefefe;
+}
+
+.list-item 
+{
+  padding: 1rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.list-item:hover
+{
+  background-color: #e6e6e6;
+}
+
+

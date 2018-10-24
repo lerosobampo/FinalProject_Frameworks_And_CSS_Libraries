@@ -1,0 +1,270 @@
+
+/*------------------------ G E N E R A L --------------------*/
+
+body
+{
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 20px;
+	background: url(../imagenes/kitchen.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: helvetica;
+}
+
+footer
+{
+	background: #595959;
+	color: white;
+	height: 80px;
+	text-align: center;
+	margin-top: 10px;
+	padding: 20px;
+}
+
+@media screen and (max-width: 40em)
+{
+	.x-5
+	{
+		margin-right: 0px;
+	}
+
+	.x-6
+	{
+		margin-top: 10px;
+		margin-left: 0px;
+	}
+
+	.x-8
+	{
+		margin-top: 10px;
+		margin-right: 0px;
+	}
+}
+
+
+/*------------------------------ X-1 -------------------------*/
+
+.x-1
+{
+	background: rgb(0, 38, 153, 0.5);
+	border-radius: 10px;
+}
+
+/*------------------------------ X-2 -------------------------*/
+
+.x-2
+{
+	padding: 10px;
+}
+
+/*------------------------------ X-3 -------------------------*/
+
+.x-3
+{
+	padding: 10px;
+}
+
+/*------------------------------ X-4 -------------------------*/
+
+
+.text-logo
+{
+	color: white;
+}
+
+.text-slogan
+{
+	color: white;
+}
+
+/*------------------------------ X-5 -------------------------*/
+
+.x-5
+{
+	background: rgb(217, 179, 255, 0.8);
+	margin-right: 10px;
+	border-radius: 10px;
+}
+
+.c-5-1
+{
+	padding: 10px;
+}
+
+/*------------------------------ X-6 -------------------------*/
+
+.x-6
+{
+	background: rgb(179, 198, 255, 0.8);
+	margin-left: 10px;
+	border-radius: 10px;
+}
+
+.img-wellington
+{
+	width: 70%;
+}
+
+.img-person
+{
+	width: 70%;
+}
+
+.c-6-1
+{
+	padding: 10px;
+}
+
+.text-titulo
+{
+	color: white;
+}
+
+.c-6-2
+{
+	padding: 10px;
+}
+
+.text-fecha
+{
+	color: white;
+}
+
+.c-6-4
+{
+	padding-top: 20px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.c-6-5-2
+{
+	padding: 10px;
+}
+
+/*------------------------------ X-7 -------------------------*/
+
+/*------------------------------ X-8 -------------------------*/
+
+.x-8
+{
+	background: rgb(179, 198, 255, 0.8);
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 30px;
+}
+
+.c-8-1
+{
+	padding: 10px;
+}
+
+.c-8-2
+{
+	padding: 10px;
+}
+
+.c-8-4
+{
+	padding-top: 20px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.c-8-5-2
+{
+	padding: 10px;
+}
+
+.img-ribs
+{
+	width: 70%;
+}
+
+/*------------------------------ X-9 -------------------------*/
+
+/*------------------------------ X-10 ------------------------*/
+
+.x-10
+{
+	margin: 10px;
+	padding: 10px;
+}
+
+.cb
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.button
+{
+	background: rgb(102, 255, 102, 0.5);
+}
+
+/*------------------------------ X-11 ------------------------*/
+.x-11
+{
+	padding: 10px;
+}
+
+.text-favoritos
+{
+	padding-left: 10px;
+}
+
+.img-1
+{
+	padding: 5px;
+}
+
+/*------------------------------ X-12 ------------------------*/
+.x-12
+{
+	padding: 10px;
+}
+
+.text-historial
+{
+	padding-left: 10px;
+}
+/*------------------------------ X-13 ------------------------*/
+.x-13
+{
+	padding: 10px;
+}
+.lista
+{
+  border: 1px solid #e6e6e6;
+  background: rgb(255, 230, 255, 0.5);
+}
+
+.list-item 
+{
+  padding: 1rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.list-item:hover
+{
+  background-color: #e6e6e6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
